@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24379342/README.md)
 # Estonian Archery Data Manager - Replit Setup
 
 ## Quick Start on Replit
