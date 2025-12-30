@@ -1534,658 +1534,6 @@ HOLGER,PEIPS,VILJ Vana-Võidu VK / Viljandi SK,04.10.2025,Lumemängud,Longbow Un
 HOLGER,PEIPS,VILJ Vana-Võidu VK / Viljandi SK,04.10.2025,Lumemängud,Longbow Under 13,15m,105
 HOLGER,PEIPS,VILJ Vana-Võidu VK / Viljandi SK,04.10.2025,Lumemängud,Longbow Under 13,2x15m,126
 `,
-  '09_07_2024_Kalevi_meistrivoistlused.csv': `Eesnimi,Perekonnanimi,Klubi,Kuupäev,Võistlus,Võistlusklass,Distants,Tulemus
-TANEL,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,306
-TANEL,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,309
-TANEL,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,615
-GLEBS,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,288
-GLEBS,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,301
-GLEBS,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,589
-KARL,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,285
-KARL,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,303
-KARL,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,588
-JELENA,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,289
-JELENA,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,298
-JELENA,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,587
-TRIINU,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,282
-TRIINU,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,291
-TRIINU,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,573
-MARIELLE,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,283
-MARIELLE,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,288
-MARIELLE,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,571
-AIVO,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,277
-AIVO,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,277
-AIVO,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,554
-REESI,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,245
-REESI,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,215
-REESI,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,460
-BIRGIT,METSJÕE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,285
-BIRGIT,METSJÕE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,288
-BIRGIT,METSJÕE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,573
-TARVET,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,285
-TARVET,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,269
-TARVET,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,554
-ANDRES,SARAPUU,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,253
-ANDRES,SARAPUU,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,250
-ANDRES,SARAPUU,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,503
-TESSA CATHLEN,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,256
-TESSA CATHLEN,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,234
-TESSA CATHLEN,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,490
-EMMA,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,300
-EMMA,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,306
-EMMA,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,606
-PATRICK,JÄRVE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,287
-PATRICK,JÄRVE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,298
-PATRICK,JÄRVE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,585
-MIKK,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,282
-MIKK,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,293
-MIKK,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,575
-MIREL,MISSIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,267
-MIREL,MISSIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,297
-MIREL,MISSIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,564
-NORA,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,278
-NORA,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,267
-NORA,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,545
-LISETTE MARIE,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,259
-LISETTE MARIE,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,254
-LISETTE MARIE,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,513
-MAIK,BILITJUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,242
-MAIK,BILITJUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,241
-MAIK,BILITJUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,483
-INGRID ANNALORE,RITVAL,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,233
-INGRID ANNALORE,RITVAL,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,245
-INGRID ANNALORE,RITVAL,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,478
-MÄRT,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,221
-MÄRT,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,229
-MÄRT,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,450
-KAROLINE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,328
-KAROLINE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,333
-KAROLINE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,661
-LISETE LAUREEN,LEPIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,326
-LISETE LAUREEN,LEPIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,320
-LISETE LAUREEN,LEPIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,646
-KRENT,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,307
-KRENT,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,317
-KRENT,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,624
-NAZAR,KVASHUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,318
-NAZAR,KVASHUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,295
-NAZAR,KVASHUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,613
-ANDRES,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m,261
-ANDRES,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m,278
-ANDRES,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,2x60m,539
-EVE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m,258
-EVE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m,256
-EVE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,2x60m,514
-AIN MARKUS,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,345
-AIN MARKUS,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,339
-AIN MARKUS,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,684
-ELIISE MARIE,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,332
-ELIISE MARIE,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,327
-ELIISE MARIE,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,659
-EMIL JOHANNES,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,313
-EMIL JOHANNES,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,284
-EMIL JOHANNES,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,597
-LENART,LEMBER,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,278
-LENART,LEMBER,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,296
-LENART,LEMBER,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,574
-EVERT,RESSAR,BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m,343
-EVERT,RESSAR,BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m,340
-EVERT,RESSAR,BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,2x50m,683
-ERON MATRI,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,343
-ERON MATRI,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,349
-ERON MATRI,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,692
-GERT-RAYDER,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,332
-GERT-RAYDER,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,317
-GERT-RAYDER,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,649
-HEINO,TENNER,KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m,293
-HEINO,TENNER,KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m,296
-HEINO,TENNER,KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,2x30m,589
-HENRI KRISTOFER,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m,303
-HENRI KRISTOFER,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m,312
-HENRI KRISTOFER,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,2x15m,615
-016A,KAASIK,KAASIK Tanel TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,306
-016A,KAASIK,KAASIK Tanel TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,309
-016A,KAASIK,KAASIK Tanel TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,615
-017A,KONONOVS,KONONOVS Glebs AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,288
-017A,KONONOVS,KONONOVS Glebs AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,301
-017A,KONONOVS,KONONOVS Glebs AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,589
-016B,KIVILO,KIVILO Karl JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,285
-016B,KIVILO,KIVILO Karl JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,303
-016B,KIVILO,KIVILO Karl JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,588
-019B,KONONOVA,KONONOVA Jelena AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,289
-019B,KONONOVA,KONONOVA Jelena AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,298
-019B,KONONOVA,KONONOVA Jelena AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,587
-018A,LILIENTHAL,LILIENTHAL Triinu JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,282
-018A,LILIENTHAL,LILIENTHAL Triinu JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,291
-018A,LILIENTHAL,LILIENTHAL Triinu JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,573
-018B,LAASMA,LAASMA Marielle PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,283
-018B,LAASMA,LAASMA Marielle PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,288
-018B,LAASMA,LAASMA Marielle PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,571
-017B,AGU,AGU Aivo JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,277
-017B,AGU,AGU Aivo JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,277
-017B,AGU,AGU Aivo JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,554
-019A,VOLMER,VOLMER Reesi PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,245
-019A,VOLMER,VOLMER Reesi PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,215
-019A,VOLMER,VOLMER Reesi PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,460
-015A,METSJÕE,METSJÕE Birgit VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,285
-015A,METSJÕE,METSJÕE Birgit VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,288
-015A,METSJÕE,METSJÕE Birgit VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,573
-014B,LABI,LABI Tarvet VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,285
-014B,LABI,LABI Tarvet VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,269
-014B,LABI,LABI Tarvet VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,554
-014A,SARAPUU,SARAPUU Andres VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,253
-014A,SARAPUU,SARAPUU Andres VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,250
-014A,SARAPUU,SARAPUU Andres VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,503
-015B,TAMMIK,TAMMIK Tessa Cathlen JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,256
-015B,TAMMIK,TAMMIK Tessa Cathlen JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,234
-015B,TAMMIK,TAMMIK Tessa Cathlen JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,490
-012A,KASK,KASK Emma TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,300
-012A,KASK,KASK Emma TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,306
-012A,KASK,KASK Emma TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,606
-009B,JÄRVE,JÄRVE Patrick VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,287
-009B,JÄRVE,JÄRVE Patrick VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,298
-009B,JÄRVE,JÄRVE Patrick VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,585
-009A,MIHKELSON,MIHKELSON Mikk JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,282
-009A,MIHKELSON,MIHKELSON Mikk JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,293
-009A,MIHKELSON,MIHKELSON Mikk JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,575
-012C,MISSIK,MISSIK Mirel VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,267
-012C,MISSIK,MISSIK Mirel VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,297
-012C,MISSIK,MISSIK Mirel VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,564
-012B,HAAS,HAAS Nora JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,278
-012B,HAAS,HAAS Nora JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,267
-012B,HAAS,HAAS Nora JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,545
-011B,GOLD,GOLD Lisette Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,259
-011B,GOLD,GOLD Lisette Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,254
-011B,GOLD,GOLD Lisette Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,513
-010A,BILITJUK,BILITJUK Maik VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,242
-010A,BILITJUK,BILITJUK Maik VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,241
-010A,BILITJUK,BILITJUK Maik VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,483
-011A,RITVAL,RITVAL Ingrid Annalore VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,233
-011A,RITVAL,RITVAL Ingrid Annalore VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,245
-011A,RITVAL,RITVAL Ingrid Annalore VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,478
-010B,LABI,LABI Märt VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,221
-010B,LABI,LABI Märt VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,229
-010B,LABI,LABI Märt VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,450
-007B,KIVILO,KIVILO Karoline JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,328
-007B,KIVILO,KIVILO Karoline JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,333
-007B,KIVILO,KIVILO Karoline JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,661
-007A,LEPIK,LEPIK Lisete Laureen VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,326
-007A,LEPIK,LEPIK Lisete Laureen VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,320
-007A,LEPIK,LEPIK Lisete Laureen VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,646
-005B,KAASIK,KAASIK Krent TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,307
-005B,KAASIK,KAASIK Krent TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,317
-005B,KAASIK,KAASIK Krent TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,624
-005C,KVASHUK,KVASHUK Nazar VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,318
-005C,KVASHUK,KVASHUK Nazar VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,295
-005C,KVASHUK,KVASHUK Nazar VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,613
-013A,SILD,SILD Andres SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,N/A-1,261
-013A,SILD,SILD Andres SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,N/A-2,278
-013A,SILD,SILD Andres SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,2xN/A,539
-013B,KIVILO,KIVILO Eve JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,N/A-1,258
-013B,KIVILO,KIVILO Eve JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,N/A-2,256
-013B,KIVILO,KIVILO Eve JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,2xN/A,514
-002A,VÄLJA,VÄLJA Ain Markus JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,345
-002A,VÄLJA,VÄLJA Ain Markus JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,339
-002A,VÄLJA,VÄLJA Ain Markus JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,684
-003B,KALDA,KALDA Eliise Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,332
-003B,KALDA,KALDA Eliise Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,327
-003B,KALDA,KALDA Eliise Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,659
-003A,VÄLJA,VÄLJA Emil Johannes JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,313
-003A,VÄLJA,VÄLJA Emil Johannes JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,284
-003A,VÄLJA,VÄLJA Emil Johannes JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,597
-002B,LEMBER,LEMBER Lenart VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,278
-002B,LEMBER,LEMBER Lenart VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,296
-002B,LEMBER,LEMBER Lenart VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,574
-008A,RESSAR,RESSAR Evert BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,N/A-1,343
-008A,RESSAR,RESSAR Evert BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,N/A-2,340
-008A,RESSAR,RESSAR Evert BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,2xN/A,683
-004C,MIKKU,MIKKU Eron Matri SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-1,343
-004C,MIKKU,MIKKU Eron Matri SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-2,349
-004C,MIKKU,MIKKU Eron Matri SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2xN/A,692
-004B,PENING,PENING Gert-Rayder LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-1,332
-004B,PENING,PENING Gert-Rayder LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-2,317
-004B,PENING,PENING Gert-Rayder LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2xN/A,649
-005A,TENNER,TENNER Heino KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,N/A-1,293
-005A,TENNER,TENNER Heino KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,N/A-2,296
-005A,TENNER,TENNER Heino KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,2xN/A,589
-004A,VEERSALU,VEERSALU Henri Kristofer SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,N/A-1,303
-004A,VEERSALU,VEERSALU Henri Kristofer SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,N/A-2,312
-004A,VEERSALU,VEERSALU Henri Kristofer SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,2xN/A,615
-Tanel,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,306
-Tanel,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,309
-Tanel,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,615
-Glebs,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,288
-Glebs,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,301
-Glebs,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,589
-Karl,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,285
-Karl,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,303
-Karl,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,588
-Jelena,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,289
-Jelena,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,298
-Jelena,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,587
-Triinu,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,282
-Triinu,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,291
-Triinu,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,573
-Marielle,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,283
-Marielle,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,288
-Marielle,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,571
-Aivo,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,277
-Aivo,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,277
-Aivo,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,554
-Reesi,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,245
-Reesi,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,215
-Reesi,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,460
-Birgit VVVK Vana-Võidu VK/Viljandi,METSJÕE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,285
-Birgit VVVK Vana-Võidu VK/Viljandi,METSJÕE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,288
-Birgit VVVK Vana-Võidu VK/Viljandi,METSJÕE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,573
-Tarvet VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,285
-Tarvet VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,269
-Tarvet VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,554
-Andres VVVK Vana-Võidu VK/Viljandi,SARAPUU,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,253
-Andres VVVK Vana-Võidu VK/Viljandi,SARAPUU,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,250
-Andres VVVK Vana-Võidu VK/Viljandi,SARAPUU,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,503
-Tessa Cathlen,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,256
-Tessa Cathlen,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,234
-Tessa Cathlen,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,490
-Emma,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,300
-Emma,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,306
-Emma,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,606
-Patrick VVVK Vana-Võidu VK/Viljandi,JÄRVE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,287
-Patrick VVVK Vana-Võidu VK/Viljandi,JÄRVE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,298
-Patrick VVVK Vana-Võidu VK/Viljandi,JÄRVE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,585
-Mikk,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,282
-Mikk,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,293
-Mikk,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,575
-Mirel VVVK Vana-Võidu VK/Viljandi,MISSIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,267
-Mirel VVVK Vana-Võidu VK/Viljandi,MISSIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,297
-Mirel VVVK Vana-Võidu VK/Viljandi,MISSIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,564
-Nora,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,278
-Nora,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,267
-Nora,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,545
-Lisette Marie,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,259
-Lisette Marie,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,254
-Lisette Marie,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,513
-Maik VVVK Vana-Võidu VK/Viljandi,BILITJUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,242
-Maik VVVK Vana-Võidu VK/Viljandi,BILITJUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,241
-Maik VVVK Vana-Võidu VK/Viljandi,BILITJUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,483
-Ingrid Annalore VVVK Vana-Võidu VK/Viljandi,RITVAL,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,233
-Ingrid Annalore VVVK Vana-Võidu VK/Viljandi,RITVAL,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,245
-Ingrid Annalore VVVK Vana-Võidu VK/Viljandi,RITVAL,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,478
-Märt VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,221
-Märt VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,229
-Märt VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,450
-Karoline,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,328
-Karoline,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,333
-Karoline,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,661
-Lisete Laureen VVVK Vana-Võidu VK/Viljandi,LEPIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,326
-Lisete Laureen VVVK Vana-Võidu VK/Viljandi,LEPIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,320
-Lisete Laureen VVVK Vana-Võidu VK/Viljandi,LEPIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,646
-Krent,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,307
-Krent,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,317
-Krent,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,624
-Nazar VVVK Vana-Võidu VK/Viljandi,KVASHUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,318
-Nazar VVVK Vana-Võidu VK/Viljandi,KVASHUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,295
-Nazar VVVK Vana-Võidu VK/Viljandi,KVASHUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,613
-Andres,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m-1,261
-Andres,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m-2,278
-Andres,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,2x60m,539
-Eve,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m-1,258
-Eve,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m-2,256
-Eve,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,2x60m,514
-Ain Markus,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,345
-Ain Markus,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,339
-Ain Markus,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,684
-Eliise Marie,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,332
-Eliise Marie,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,327
-Eliise Marie,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,659
-Emil Johannes,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,313
-Emil Johannes,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,284
-Emil Johannes,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,597
-Lenart VVVK Vana-Võidu VK/Viljandi,LEMBER,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,278
-Lenart VVVK Vana-Võidu VK/Viljandi,LEMBER,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,296
-Lenart VVVK Vana-Võidu VK/Viljandi,LEMBER,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,574
-Evert BH BalticHunter,RESSAR,SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m-1,343
-Evert BH BalticHunter,RESSAR,SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m-2,340
-Evert BH BalticHunter,RESSAR,SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,2x50m,683
-Eron Matri,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-1,343
-Eron Matri,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-2,349
-Eron Matri,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,692
-Gert-Rayder,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-1,332
-Gert-Rayder,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-2,317
-Gert-Rayder,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,649
-Heino KSK Kajamaa,TENNER,SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m-1,293
-Heino KSK Kajamaa,TENNER,SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m-2,296
-Heino KSK Kajamaa,TENNER,SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,2x30m,589
-Henri Kristofer,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m-1,303
-Henri Kristofer,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m-2,312
-Henri Kristofer,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,2x15m,615
-`,
-  '09_07_2024_Kalevi_meistrivoistlused__1_.csv': `Eesnimi,Perekonnanimi,Klubi,Kuupäev,Võistlus,Võistlusklass,Distants,Tulemus
-TANEL,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,306
-TANEL,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,309
-TANEL,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,615
-GLEBS,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,288
-GLEBS,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,301
-GLEBS,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,589
-KARL,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,285
-KARL,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,303
-KARL,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,588
-JELENA,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,289
-JELENA,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,298
-JELENA,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,587
-TRIINU,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,282
-TRIINU,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,291
-TRIINU,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,573
-MARIELLE,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,283
-MARIELLE,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,288
-MARIELLE,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,571
-AIVO,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,277
-AIVO,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,277
-AIVO,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,554
-REESI,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,245
-REESI,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m,215
-REESI,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,460
-BIRGIT,METSJÕE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,285
-BIRGIT,METSJÕE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,288
-BIRGIT,METSJÕE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,573
-TARVET,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,285
-TARVET,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,269
-TARVET,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,554
-ANDRES,SARAPUU,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,253
-ANDRES,SARAPUU,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,250
-ANDRES,SARAPUU,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,503
-TESSA CATHLEN,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,256
-TESSA CATHLEN,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m,234
-TESSA CATHLEN,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,490
-EMMA,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,300
-EMMA,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,306
-EMMA,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,606
-PATRICK,JÄRVE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,287
-PATRICK,JÄRVE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,298
-PATRICK,JÄRVE,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,585
-MIKK,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,282
-MIKK,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,293
-MIKK,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,575
-MIREL,MISSIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,267
-MIREL,MISSIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,297
-MIREL,MISSIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,564
-NORA,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,278
-NORA,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,267
-NORA,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,545
-LISETTE MARIE,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,259
-LISETTE MARIE,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,254
-LISETTE MARIE,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,513
-MAIK,BILITJUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,242
-MAIK,BILITJUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,241
-MAIK,BILITJUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,483
-INGRID ANNALORE,RITVAL,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,233
-INGRID ANNALORE,RITVAL,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,245
-INGRID ANNALORE,RITVAL,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,478
-MÄRT,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,221
-MÄRT,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m,229
-MÄRT,LABI,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,450
-KAROLINE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,328
-KAROLINE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,333
-KAROLINE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,661
-LISETE LAUREEN,LEPIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,326
-LISETE LAUREEN,LEPIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,320
-LISETE LAUREEN,LEPIK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,646
-KRENT,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,307
-KRENT,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,317
-KRENT,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,624
-NAZAR,KVASHUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,318
-NAZAR,KVASHUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m,295
-NAZAR,KVASHUK,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,613
-ANDRES,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m,261
-ANDRES,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m,278
-ANDRES,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,2x60m,539
-EVE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m,258
-EVE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m,256
-EVE,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,2x60m,514
-AIN MARKUS,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,345
-AIN MARKUS,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,339
-AIN MARKUS,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,684
-ELIISE MARIE,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,332
-ELIISE MARIE,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,327
-ELIISE MARIE,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,659
-EMIL JOHANNES,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,313
-EMIL JOHANNES,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,284
-EMIL JOHANNES,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,597
-LENART,LEMBER,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,278
-LENART,LEMBER,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m,296
-LENART,LEMBER,VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,574
-EVERT,RESSAR,BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m,343
-EVERT,RESSAR,BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m,340
-EVERT,RESSAR,BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,2x50m,683
-ERON MATRI,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,343
-ERON MATRI,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,349
-ERON MATRI,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,692
-GERT-RAYDER,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,332
-GERT-RAYDER,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m,317
-GERT-RAYDER,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,649
-HEINO,TENNER,KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m,293
-HEINO,TENNER,KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m,296
-HEINO,TENNER,KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,2x30m,589
-HENRI KRISTOFER,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m,303
-HENRI KRISTOFER,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m,312
-HENRI KRISTOFER,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,2x15m,615
-016A,KAASIK,KAASIK Tanel TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,306
-016A,KAASIK,KAASIK Tanel TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,309
-016A,KAASIK,KAASIK Tanel TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,615
-017A,KONONOVS,KONONOVS Glebs AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,288
-017A,KONONOVS,KONONOVS Glebs AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,301
-017A,KONONOVS,KONONOVS Glebs AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,589
-016B,KIVILO,KIVILO Karl JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,285
-016B,KIVILO,KIVILO Karl JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,303
-016B,KIVILO,KIVILO Karl JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,588
-019B,KONONOVA,KONONOVA Jelena AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,289
-019B,KONONOVA,KONONOVA Jelena AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,298
-019B,KONONOVA,KONONOVA Jelena AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,587
-018A,LILIENTHAL,LILIENTHAL Triinu JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,282
-018A,LILIENTHAL,LILIENTHAL Triinu JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,291
-018A,LILIENTHAL,LILIENTHAL Triinu JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,573
-018B,LAASMA,LAASMA Marielle PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,283
-018B,LAASMA,LAASMA Marielle PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,288
-018B,LAASMA,LAASMA Marielle PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,571
-017B,AGU,AGU Aivo JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,277
-017B,AGU,AGU Aivo JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,277
-017B,AGU,AGU Aivo JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,554
-019A,VOLMER,VOLMER Reesi PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-1,245
-019A,VOLMER,VOLMER Reesi PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,N/A-2,215
-019A,VOLMER,VOLMER Reesi PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2xN/A,460
-015A,METSJÕE,METSJÕE Birgit VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,285
-015A,METSJÕE,METSJÕE Birgit VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,288
-015A,METSJÕE,METSJÕE Birgit VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,573
-014B,LABI,LABI Tarvet VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,285
-014B,LABI,LABI Tarvet VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,269
-014B,LABI,LABI Tarvet VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,554
-014A,SARAPUU,SARAPUU Andres VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,253
-014A,SARAPUU,SARAPUU Andres VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,250
-014A,SARAPUU,SARAPUU Andres VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,503
-015B,TAMMIK,TAMMIK Tessa Cathlen JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-1,256
-015B,TAMMIK,TAMMIK Tessa Cathlen JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,N/A-2,234
-015B,TAMMIK,TAMMIK Tessa Cathlen JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2xN/A,490
-012A,KASK,KASK Emma TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,300
-012A,KASK,KASK Emma TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,306
-012A,KASK,KASK Emma TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,606
-009B,JÄRVE,JÄRVE Patrick VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,287
-009B,JÄRVE,JÄRVE Patrick VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,298
-009B,JÄRVE,JÄRVE Patrick VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,585
-009A,MIHKELSON,MIHKELSON Mikk JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,282
-009A,MIHKELSON,MIHKELSON Mikk JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,293
-009A,MIHKELSON,MIHKELSON Mikk JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,575
-012C,MISSIK,MISSIK Mirel VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,267
-012C,MISSIK,MISSIK Mirel VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,297
-012C,MISSIK,MISSIK Mirel VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,564
-012B,HAAS,HAAS Nora JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,278
-012B,HAAS,HAAS Nora JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,267
-012B,HAAS,HAAS Nora JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,545
-011B,GOLD,GOLD Lisette Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,259
-011B,GOLD,GOLD Lisette Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,254
-011B,GOLD,GOLD Lisette Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,513
-010A,BILITJUK,BILITJUK Maik VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,242
-010A,BILITJUK,BILITJUK Maik VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,241
-010A,BILITJUK,BILITJUK Maik VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,483
-011A,RITVAL,RITVAL Ingrid Annalore VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,233
-011A,RITVAL,RITVAL Ingrid Annalore VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,245
-011A,RITVAL,RITVAL Ingrid Annalore VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,478
-010B,LABI,LABI Märt VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-1,221
-010B,LABI,LABI Märt VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,N/A-2,229
-010B,LABI,LABI Märt VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2xN/A,450
-007B,KIVILO,KIVILO Karoline JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,328
-007B,KIVILO,KIVILO Karoline JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,333
-007B,KIVILO,KIVILO Karoline JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,661
-007A,LEPIK,LEPIK Lisete Laureen VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,326
-007A,LEPIK,LEPIK Lisete Laureen VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,320
-007A,LEPIK,LEPIK Lisete Laureen VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,646
-005B,KAASIK,KAASIK Krent TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,307
-005B,KAASIK,KAASIK Krent TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,317
-005B,KAASIK,KAASIK Krent TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,624
-005C,KVASHUK,KVASHUK Nazar VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-1,318
-005C,KVASHUK,KVASHUK Nazar VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,N/A-2,295
-005C,KVASHUK,KVASHUK Nazar VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2xN/A,613
-013A,SILD,SILD Andres SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,N/A-1,261
-013A,SILD,SILD Andres SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,N/A-2,278
-013A,SILD,SILD Andres SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,2xN/A,539
-013B,KIVILO,KIVILO Eve JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,N/A-1,258
-013B,KIVILO,KIVILO Eve JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,N/A-2,256
-013B,KIVILO,KIVILO Eve JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,2xN/A,514
-002A,VÄLJA,VÄLJA Ain Markus JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,345
-002A,VÄLJA,VÄLJA Ain Markus JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,339
-002A,VÄLJA,VÄLJA Ain Markus JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,684
-003B,KALDA,KALDA Eliise Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,332
-003B,KALDA,KALDA Eliise Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,327
-003B,KALDA,KALDA Eliise Marie JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,659
-003A,VÄLJA,VÄLJA Emil Johannes JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,313
-003A,VÄLJA,VÄLJA Emil Johannes JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,284
-003A,VÄLJA,VÄLJA Emil Johannes JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,597
-002B,LEMBER,LEMBER Lenart VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-1,278
-002B,LEMBER,LEMBER Lenart VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,N/A-2,296
-002B,LEMBER,LEMBER Lenart VVVK Vana-Võidu VK/Viljandi SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2xN/A,574
-008A,RESSAR,RESSAR Evert BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,N/A-1,343
-008A,RESSAR,RESSAR Evert BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,N/A-2,340
-008A,RESSAR,RESSAR Evert BH BalticHunter SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,2xN/A,683
-004C,MIKKU,MIKKU Eron Matri SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-1,343
-004C,MIKKU,MIKKU Eron Matri SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-2,349
-004C,MIKKU,MIKKU Eron Matri SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2xN/A,692
-004B,PENING,PENING Gert-Rayder LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-1,332
-004B,PENING,PENING Gert-Rayder LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,N/A-2,317
-004B,PENING,PENING Gert-Rayder LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2xN/A,649
-005A,TENNER,TENNER Heino KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,N/A-1,293
-005A,TENNER,TENNER Heino KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,N/A-2,296
-005A,TENNER,TENNER Heino KSK Kajamaa SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,2xN/A,589
-004A,VEERSALU,VEERSALU Henri Kristofer SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,N/A-1,303
-004A,VEERSALU,VEERSALU Henri Kristofer SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,N/A-2,312
-004A,VEERSALU,VEERSALU Henri Kristofer SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,2xN/A,615
-Tanel,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,306
-Tanel,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,309
-Tanel,KAASIK,TLVK Tallinna Vibukool,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,615
-Glebs,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,288
-Glebs,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,301
-Glebs,KONONOVS,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,589
-Karl,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,285
-Karl,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,303
-Karl,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,588
-Jelena,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,289
-Jelena,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,298
-Jelena,KONONOVA,AMZ Amazones,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,587
-Triinu,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,282
-Triinu,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,291
-Triinu,LILIENTHAL,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,573
-Marielle,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,283
-Marielle,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,288
-Marielle,LAASMA,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,571
-Aivo,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,277
-Aivo,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,277
-Aivo,AGU,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,554
-Reesi,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-1,245
-Reesi,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,70m-2,215
-Reesi,VOLMER,PVM Pärnu Vibuklubi Meelis,09.07.2024,Kalevi meistrivõistlused,Sportvibu - Täiskasvanud,2x70m,460
-Birgit VVVK Vana-Võidu VK/Viljandi,METSJÕE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,285
-Birgit VVVK Vana-Võidu VK/Viljandi,METSJÕE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,288
-Birgit VVVK Vana-Võidu VK/Viljandi,METSJÕE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,573
-Tarvet VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,285
-Tarvet VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,269
-Tarvet VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,554
-Andres VVVK Vana-Võidu VK/Viljandi,SARAPUU,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,253
-Andres VVVK Vana-Võidu VK/Viljandi,SARAPUU,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,250
-Andres VVVK Vana-Võidu VK/Viljandi,SARAPUU,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,503
-Tessa Cathlen,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-1,256
-Tessa Cathlen,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,70m-2,234
-Tessa Cathlen,TAMMIK,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U21,2x70m,490
-Emma,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,300
-Emma,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,306
-Emma,KASK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,606
-Patrick VVVK Vana-Võidu VK/Viljandi,JÄRVE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,287
-Patrick VVVK Vana-Võidu VK/Viljandi,JÄRVE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,298
-Patrick VVVK Vana-Võidu VK/Viljandi,JÄRVE,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,585
-Mikk,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,282
-Mikk,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,293
-Mikk,MIHKELSON,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,575
-Mirel VVVK Vana-Võidu VK/Viljandi,MISSIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,267
-Mirel VVVK Vana-Võidu VK/Viljandi,MISSIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,297
-Mirel VVVK Vana-Võidu VK/Viljandi,MISSIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,564
-Nora,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,278
-Nora,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,267
-Nora,HAAS,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,545
-Lisette Marie,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,259
-Lisette Marie,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,254
-Lisette Marie,GOLD,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,513
-Maik VVVK Vana-Võidu VK/Viljandi,BILITJUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,242
-Maik VVVK Vana-Võidu VK/Viljandi,BILITJUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,241
-Maik VVVK Vana-Võidu VK/Viljandi,BILITJUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,483
-Ingrid Annalore VVVK Vana-Võidu VK/Viljandi,RITVAL,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,233
-Ingrid Annalore VVVK Vana-Võidu VK/Viljandi,RITVAL,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,245
-Ingrid Annalore VVVK Vana-Võidu VK/Viljandi,RITVAL,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,478
-Märt VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-1,221
-Märt VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,60m-2,229
-Märt VVVK Vana-Võidu VK/Viljandi,LABI,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U18,2x60m,450
-Karoline,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,328
-Karoline,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,333
-Karoline,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,661
-Lisete Laureen VVVK Vana-Võidu VK/Viljandi,LEPIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,326
-Lisete Laureen VVVK Vana-Võidu VK/Viljandi,LEPIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,320
-Lisete Laureen VVVK Vana-Võidu VK/Viljandi,LEPIK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,646
-Krent,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,307
-Krent,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,317
-Krent,KAASIK,TVSK Tartu Valla Spordiklubi,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,624
-Nazar VVVK Vana-Võidu VK/Viljandi,KVASHUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-1,318
-Nazar VVVK Vana-Võidu VK/Viljandi,KVASHUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,30m-2,295
-Nazar VVVK Vana-Võidu VK/Viljandi,KVASHUK,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U15,2x30m,613
-Andres,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m-1,261
-Andres,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,60m-2,278
-Andres,SILD,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ mehed,2x60m,539
-Eve,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m-1,258
-Eve,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,60m-2,256
-Eve,KIVILO,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - 50+ naised,2x60m,514
-Ain Markus,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,345
-Ain Markus,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,339
-Ain Markus,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,684
-Eliise Marie,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,332
-Eliise Marie,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,327
-Eliise Marie,KALDA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,659
-Emil Johannes,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,313
-Emil Johannes,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,284
-Emil Johannes,VÄLJA,JVI Järvakandi Vibuklubi Ilves,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,597
-Lenart VVVK Vana-Võidu VK/Viljandi,LEMBER,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-1,278
-Lenart VVVK Vana-Võidu VK/Viljandi,LEMBER,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,15m-2,296
-Lenart VVVK Vana-Võidu VK/Viljandi,LEMBER,SK,09.07.2024,Kalevi meistrivõistlused,Sportvibu - U13,2x15m,574
-Evert BH BalticHunter,RESSAR,SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m-1,343
-Evert BH BalticHunter,RESSAR,SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,50m-2,340
-Evert BH BalticHunter,RESSAR,SC,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - mehed,2x50m,683
-Eron Matri,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-1,343
-Eron Matri,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-2,349
-Eron Matri,MIKKU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,692
-Gert-Rayder,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-1,332
-Gert-Rayder,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,15m-2,317
-Gert-Rayder,PENING,LV Lääne Vibulaskjad,09.07.2024,Kalevi meistrivõistlused,Plokkvibu - U13 poisid,2x15m,649
-Heino KSK Kajamaa,TENNER,SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m-1,293
-Heino KSK Kajamaa,TENNER,SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,30m-2,296
-Heino KSK Kajamaa,TENNER,SK,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - 50+ mehed,2x30m,589
-Henri Kristofer,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m-1,303
-Henri Kristofer,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,15m-2,312
-Henri Kristofer,VEERSALU,SAG Sagittarius,09.07.2024,Kalevi meistrivõistlused,Pikkvibu - U13 poisid,2x15m,615
-`,
   '10_05_2024_Lumemangud.csv': `Eesnimi,Perekonnanimi,Klubi,Kuupäev,Võistlus,Võistlusklass,Distants,Tulemus
 PRIIT,TANVEL,TLVK Tallinna Vibukool,10.05.2024,Lumemängud,Sportvibu - mehed,70m,307
 PRIIT,TANVEL,TLVK Tallinna Vibukool,10.05.2024,Lumemängud,Sportvibu - mehed,70m,308
@@ -6685,14 +6033,24 @@ function ImportPage({ onImport, importedData, setCurrentStep }) {
   );
 }
 
-function ParsePage({ importedData, onParse, parsedData, settings, onSettingsChange, setCurrentStep }) {
+function ParsePage({ importedData, onParse, parsedData, settings, onSettingsChange, setCurrentStep, addToDatabase }) {
   const [showSettings, setShowSettings] = useState(false);
   const [showAllCorrections, setShowAllCorrections] = useState(true);
   
   const handleParse = () => {
     const result = applyAdvancedParsing(importedData.data, settings, ['Kristjan Mäe', 'Laura Nurmsalu']);
     onParse(result);
-    setCurrentStep(3); // Auto-advance to Review step
+    
+    // Immediately add all valid (parsed) records to database
+    if (result.parsed && result.parsed.length > 0) {
+      console.log('Adding', result.parsed.length, 'valid records to database');
+      addToDatabase(result.parsed);
+      
+      // Keep parsed records in parsedData for UI display
+      // They're now in both parsedData.parsed (for display) and databaseRecords (for actual use)
+    }
+    
+    // Stay on Parse page - don't navigate anywhere
   };
   
   return (
@@ -6743,6 +6101,21 @@ function ParsePage({ importedData, onParse, parsedData, settings, onSettingsChan
             </div>
           </div>
 
+          {/* Success indicator */}
+          {parsedData.needsReview.length === 0 && parsedData.parsed.length > 0 && (
+            <div className="bg-green-50 border border-green-200 rounded-lg p-6">
+              <div className="flex items-center gap-3">
+                <CheckSquare className="w-8 h-8 text-green-600" />
+                <div>
+                  <h3 className="text-lg font-semibold text-green-900">All Records Valid!</h3>
+                  <p className="text-sm text-green-700 mt-1">
+                    {parsedData.parsed.length} record{parsedData.parsed.length !== 1 ? 's' : ''} added to database
+                  </p>
+                </div>
+              </div>
+            </div>
+          )}
+
           {parsedData.corrections.length > 0 && (
             <div className="bg-white rounded-lg shadow">
               <div className="p-6 border-b flex justify-between items-center">
@@ -6791,6 +6164,38 @@ function ParsePage({ importedData, onParse, parsedData, settings, onSettingsChan
               )}
             </div>
           )}
+
+          {/* Navigation Buttons */}
+          <div className="bg-white rounded-lg shadow p-6">
+            <div className="flex items-center justify-between">
+              <div>
+                <h3 className="text-lg font-semibold mb-1">Next Steps</h3>
+                <p className="text-sm text-gray-600">
+                  {parsedData.needsReview.length > 0 
+                    ? `Review ${parsedData.needsReview.length} flagged record${parsedData.needsReview.length !== 1 ? 's' : ''} or proceed directly to database`
+                    : 'All records are valid - proceed to database'}
+                </p>
+              </div>
+              <div className="flex gap-3">
+                {parsedData.needsReview.length > 0 && (
+                  <button
+                    onClick={() => setCurrentStep(3)}
+                    className="px-4 py-2 bg-yellow-600 text-white rounded-lg hover:bg-yellow-700 flex items-center gap-2 transition-colors"
+                  >
+                    <AlertCircle className="w-4 h-4" />
+                    Review Issues
+                  </button>
+                )}
+                <button
+                  onClick={() => setCurrentStep(4)}
+                  className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 flex items-center gap-2 transition-colors"
+                >
+                  Continue to Database
+                  <ArrowRight className="w-4 h-4" />
+                </button>
+              </div>
+            </div>
+          </div>
         </>
       )}
     </div>
@@ -6800,6 +6205,13 @@ function ParsePage({ importedData, onParse, parsedData, settings, onSettingsChan
 // ADVANCED REVIEW PAGE WITH TICKETS
 function ReviewPage({ parsedData, onApprove, onFinalize, settings }) {
   const [manualOverrides, setManualOverrides] = useState({});
+  const [notification, setNotification] = useState(null);
+  
+  // Show notification temporarily
+  const showNotification = (message) => {
+    setNotification(message);
+    setTimeout(() => setNotification(null), 3000);
+  };
   
   // Group records by individual issues - one ticket per unique issue
   const tickets = useMemo(() => {
@@ -6871,7 +6283,8 @@ function ReviewPage({ parsedData, onApprove, onFinalize, settings }) {
       onApprove(record);
     });
     
-    alert(`Ticket #${ticket.ticketId} accepted! Corrected ${ticket.issue.field} for ${ticket.records.length} record${ticket.records.length > 1 ? 's' : ''}.`);
+    // Show notification
+    showNotification(`✓ ${ticket.records.length} record${ticket.records.length > 1 ? 's' : ''} added to database`);
   };
 
   const handleDeleteTicket = (ticket) => {
@@ -6888,17 +6301,31 @@ function ReviewPage({ parsedData, onApprove, onFinalize, settings }) {
   };
 
   if (!parsedData || parsedData.needsReview.length === 0) {
+    // Auto-finalize valid records if any exist
+    React.useEffect(() => {
+      if (parsedData && parsedData.parsed.length > 0) {
+        // Add all parsed records to database automatically
+        parsedData.parsed.forEach(record => {
+          onApprove(record);
+        });
+        // Clear parsed array since they're now in database
+        parsedData.parsed = [];
+      }
+    }, []);
+
     return (
       <div className="space-y-6">
         <h2 className="text-2xl font-bold">Manual Review</h2>
         <div className="bg-white rounded-lg shadow p-12 text-center">
           <CheckSquare className="w-16 h-16 text-green-400 mx-auto mb-4" />
           <p className="text-lg font-medium">All records parsed successfully!</p>
-          {parsedData && parsedData.parsed.length > 0 && (
-            <button onClick={() => { onFinalize(); }} className="mt-4 px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700">
-              Finalize {parsedData.parsed.length} Records →
-            </button>
-          )}
+          <p className="text-gray-600 mt-2">Valid records automatically added to database</p>
+          <button 
+            onClick={() => onFinalize()} 
+            className="mt-4 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+          >
+            Continue to Database →
+          </button>
         </div>
       </div>
     );
@@ -6906,6 +6333,14 @@ function ReviewPage({ parsedData, onApprove, onFinalize, settings }) {
 
   return (
     <div className="space-y-6">
+      {/* Notification Toast */}
+      {notification && (
+        <div className="fixed top-4 right-4 z-50 bg-green-600 text-white px-6 py-3 rounded-lg shadow-lg flex items-center gap-3 animate-fade-in">
+          <CheckSquare className="w-5 h-5" />
+          <span className="font-medium">{notification}</span>
+        </div>
+      )}
+
       <div>
         <h2 className="text-2xl font-bold">Manual Review</h2>
         <p className="text-gray-600">{tickets.length} correction{tickets.length !== 1 ? 's' : ''} needed, {parsedData.needsReview.length} total records affected</p>
@@ -7078,7 +6513,7 @@ function ReviewPage({ parsedData, onApprove, onFinalize, settings }) {
                   }`}
                 >
                   <Check className="w-5 h-5" />
-                  Accept & Apply
+                  Add to Database
                   {!ticket.recommendation && !manualOverrides[`${ticket.ticketId}-${ticket.records[0]._id}`] && (
                     <span className="text-xs">(Enter value first)</span>
                   )}
@@ -7096,13 +6531,22 @@ function ReviewPage({ parsedData, onApprove, onFinalize, settings }) {
             <div className="text-sm text-gray-600">Total records needing review</div>
             <div className="text-2xl font-bold text-gray-900">{parsedData.needsReview.length}</div>
           </div>
-          <button
-            onClick={onFinalize}
-            className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium flex items-center gap-2"
-          >
-            Finalize All Valid Records ({parsedData.parsed.length})
-            <ArrowRight className="w-5 h-5" />
-          </button>
+          <div className="flex gap-3">
+            <button
+              onClick={() => onFinalize()}
+              className="px-6 py-3 bg-gray-200 text-gray-700 rounded-lg hover:bg-gray-300 transition-colors font-medium flex items-center gap-2"
+            >
+              <SkipForward className="w-5 h-5" />
+              Skip to Database
+            </button>
+            <button
+              onClick={() => onFinalize()}
+              className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium flex items-center gap-2"
+            >
+              Continue to Database
+              <ArrowRight className="w-5 h-5" />
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -7114,6 +6558,11 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
   const [sortColumn, setSortColumn] = useState('_id');
   const [sortDirection, setSortDirection] = useState('asc');
   const [seasonalBest, setSeasonalBest] = useState(false);
+  
+  // Lazy loading states
+  const [displayCount, setDisplayCount] = useState(100); // Show first 100 records
+  const [isLoadingMore, setIsLoadingMore] = useState(false);
+  const tableContainerRef = useRef(null);
   
   // Filter states
   const [filterClub, setFilterClub] = useState('');
@@ -7315,6 +6764,45 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
     
     return sorted;
   }, [filteredRecords, sortColumn, sortDirection]);
+
+  // Lazy loading - only display first N records
+  const displayedRecords = useMemo(() => {
+    return sortedRecords.slice(0, displayCount);
+  }, [sortedRecords, displayCount]);
+
+  const hasMoreRecords = sortedRecords.length > displayCount;
+
+  // Reset display count when filters change
+  React.useEffect(() => {
+    setDisplayCount(100);
+  }, [searchTerm, filterClub, filterCompetition, filterBowType, filterAgeClass, filterGender, filterDistance, filterSourceFile, seasonalBest]);
+
+  // Handle scroll to load more
+  const handleScroll = (e) => {
+    const element = e.target;
+    const scrollHeight = element.scrollHeight;
+    const scrollTop = element.scrollTop;
+    const clientHeight = element.clientHeight;
+    const distanceFromBottom = scrollHeight - scrollTop - clientHeight;
+
+    console.log('Scroll:', { scrollHeight, scrollTop, clientHeight, distanceFromBottom, hasMoreRecords, isLoadingMore });
+
+    // If scrolled to within 300px of bottom OR at the very bottom, load more
+    if ((distanceFromBottom < 300 || distanceFromBottom <= 1) && !isLoadingMore && hasMoreRecords) {
+      console.log('Loading more records...');
+      setIsLoadingMore(true);
+      
+      // Simulate loading delay (smooth UX)
+      setTimeout(() => {
+        setDisplayCount(prev => {
+          const newCount = prev + 100;
+          console.log('Display count increased to:', newCount);
+          return newCount;
+        });
+        setIsLoadingMore(false);
+      }, 100);
+    }
+  };
 
   const handleSort = (column) => {
     if (sortColumn === column) {
@@ -7613,7 +7101,7 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
 
       {/* Table - Desktop View */}
       <div className="bg-white rounded-lg shadow overflow-hidden hidden md:block">
-        {seasonalBest && sortedRecords.length > 0 && (
+        {seasonalBest && displayedRecords.length > 0 && (
           <div className="px-3 py-2 bg-blue-50 border-b border-blue-200 text-sm text-blue-900 flex items-center gap-2">
             <svg className="w-4 h-4 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -7623,8 +7111,12 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
             </span>
           </div>
         )}
-        {sortedRecords.length > 0 ? (
-          <div className="overflow-x-auto">
+        {displayedRecords.length > 0 ? (
+          <div 
+            className="overflow-x-auto max-h-[600px] overflow-y-auto" 
+            onScroll={handleScroll}
+            ref={tableContainerRef}
+          >
             <table className="w-full">
               <thead className="bg-gray-50 border-b border-gray-200">
                 <tr>
@@ -7721,7 +7213,7 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
                 </tr>
               </thead>
               <tbody className="bg-white divide-y divide-gray-200">
-                {sortedRecords.map((record, index) => (
+                {displayedRecords.map((record, index) => (
                   <tr key={index} className="hover:bg-gray-50 transition-colors">
                     <td className="px-3 py-2 text-sm font-medium text-gray-900">
                       #{record._id}
@@ -7768,6 +7260,39 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
                     </td>
                   </tr>
                 ))}
+                {/* Loading indicator */}
+                {isLoadingMore && (
+                  <tr>
+                    <td colSpan="10" className="px-3 py-4 text-center text-sm text-gray-500">
+                      <RefreshCw className="w-4 h-4 animate-spin inline-block mr-2" />
+                      Loading more records...
+                    </td>
+                  </tr>
+                )}
+                {/* Load More button */}
+                {!isLoadingMore && hasMoreRecords && (
+                  <tr>
+                    <td colSpan="10" className="px-3 py-4 text-center bg-gray-50">
+                      <div className="space-y-2">
+                        <div className="text-xs text-gray-500">
+                          Showing {displayedRecords.length} of {sortedRecords.length} records
+                        </div>
+                        <button
+                          onClick={() => {
+                            setIsLoadingMore(true);
+                            setTimeout(() => {
+                              setDisplayCount(prev => prev + 100);
+                              setIsLoadingMore(false);
+                            }, 100);
+                          }}
+                          className="px-4 py-2 bg-blue-600 text-white text-sm font-medium rounded-lg hover:bg-blue-700 transition-colors"
+                        >
+                          Load 100 More Records
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+                )}
               </tbody>
             </table>
           </div>
@@ -7785,7 +7310,7 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
 
       {/* Mobile Table View */}
       <div className="md:hidden bg-white rounded-lg shadow overflow-hidden">
-        {seasonalBest && sortedRecords.length > 0 && (
+        {seasonalBest && displayedRecords.length > 0 && (
           <div className="px-3 py-2 bg-blue-50 border-b border-blue-200 text-xs text-blue-900 flex items-center gap-2">
             <svg className="w-4 h-4 text-blue-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
@@ -7795,8 +7320,11 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
             </span>
           </div>
         )}
-        {sortedRecords.length > 0 ? (
-          <div>
+        {displayedRecords.length > 0 ? (
+          <div 
+            className="max-h-[600px] overflow-y-auto"
+            onScroll={handleScroll}
+          >
             <table className="w-full text-xs table-fixed">
               <thead className="bg-gray-50 border-b border-gray-200">
                 <tr>
@@ -7877,7 +7405,7 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
                 </tr>
               </thead>
               <tbody className="bg-white divide-y divide-gray-100">
-                {sortedRecords.map((record, index) => (
+                {displayedRecords.map((record, index) => (
                   <tr key={index} className="hover:bg-gray-50 active:bg-gray-100">
                     {/* Column 1: Athlete */}
                     <td className="px-1.5 py-2 align-top">
@@ -7928,6 +7456,41 @@ function DatabasePage({ databaseRecords, onAthleteClick }) {
                     </td>
                   </tr>
                 ))}
+                {/* Loading indicator */}
+                {isLoadingMore && (
+                  <tr>
+                    <td colSpan="4" className="px-3 py-4 text-center text-xs text-gray-500">
+                      <RefreshCw className="w-4 h-4 animate-spin inline-block mr-2" />
+                      Loading...
+                    </td>
+                  </tr>
+                )}
+                {/* Load More button */}
+                {!isLoadingMore && hasMoreRecords && (
+                  <tr>
+                    <td colSpan="4" className="px-3 py-4 text-center bg-gray-50">
+                      <div className="space-y-2">
+                        <div className="text-[10px] text-gray-500">
+                          {displayedRecords.length} of {sortedRecords.length} records
+                        </div>
+                        <button
+                          onClick={() => {
+                            setIsLoadingMore(true);
+                            setTimeout(() => {
+                              setDisplayCount(prev => prev + 100);
+                              setIsLoadingMore(false);
+                            }, 100);
+                          }}
+                          className="px-3 py-1.5 bg-blue-600 text-white text-xs font-medium rounded-lg hover:bg-blue-700 transition-colors"
+                        >
+                          Load 100 More
+                        </button>
+                      </div>
+                    </td>
+                  </tr>
+                )}
+                  </tr>
+                )}
               </tbody>
             </table>
           </div>
@@ -8961,9 +8524,12 @@ export default function App() {
   };
 
   const handleApprove = (record) => {
+    // Add approved record directly to database
+    setDatabaseRecords(prev => [...prev, record]);
+    
+    // Remove from needsReview
     setParsedData(prev => ({
       ...prev,
-      parsed: [...prev.parsed, record],
       needsReview: prev.needsReview.filter(r => r._id !== record._id)
     }));
   };
@@ -8976,8 +8542,8 @@ export default function App() {
   const renderPage = () => {
     switch (currentStep) {
       case 1: return <ImportPage onImport={setImportedData} importedData={importedData} setCurrentStep={setCurrentStep} />;
-      case 2: return <ParsePage importedData={importedData} onParse={setParsedData} parsedData={parsedData} settings={settings} onSettingsChange={setSettings} setCurrentStep={setCurrentStep} />;
-      case 3: return <ReviewPage parsedData={parsedData} onApprove={handleApprove} onFinalize={() => { if (parsedData) { setDatabaseRecords([...databaseRecords, ...parsedData.parsed]); setCurrentStep(4); }}} settings={settings} />;
+      case 2: return <ParsePage importedData={importedData} onParse={setParsedData} parsedData={parsedData} settings={settings} onSettingsChange={setSettings} setCurrentStep={setCurrentStep} addToDatabase={(records) => setDatabaseRecords(prev => [...prev, ...records])} />;
+      case 3: return <ReviewPage parsedData={parsedData} onApprove={handleApprove} onFinalize={() => setCurrentStep(4)} settings={settings} />;
       case 4: return <DatabasePage databaseRecords={databaseRecords} onAthleteClick={handleAthleteClick} />;
       case 5: return <ReportPage databaseRecords={databaseRecords} onAthleteClick={handleAthleteClick} />;
       case 6: return <AthletePage databaseRecords={databaseRecords} selectedAthlete={selectedAthlete} setSelectedAthlete={setSelectedAthlete} />;
